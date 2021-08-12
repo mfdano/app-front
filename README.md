@@ -1,6 +1,6 @@
 ## Description
 
-Frontend repository.
+Frontend repository made with React and [ant design](https://ant.design/).
 
 ## Requirements
 
